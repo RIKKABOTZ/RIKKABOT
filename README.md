@@ -1,0 +1,2 @@
+# RIKKABOT
+Bot termux
