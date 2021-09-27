@@ -1,0 +1,11 @@
+from LIB import famz
+#global.DeveloperMode = 'false' //true Or false
+#global.linkGC = ['https://chat.whatsapp.com/BDsgqsvMX8i8j27Uq40T8Y']
+#global.channelYT = ['https://youtube.com/channel/UCHQoQcy2WzXNs9K1jd8QexA'] 
+#global.owner = ['6283838323239']
+#global.mods = ['6283838323239'] // Want some help?
+#global.prems = [] // Premium user has unlimited limit
+
+#// Sticker WM
+#global.packname = 'Pras Gans'
+#global.author = 'RIKKABOTZ Is The Best'
